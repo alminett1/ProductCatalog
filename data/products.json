@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Name": "Frost",
+    "Price": 0.99
+  },
+  {
+    "Id": 2,
+    "Name": "Lettuce",
+    "Price": 2.98
+  },
+  {
+    "Id": 3,
+    "Name": "Bottled Water",
+    "Price": 14.75
+  },
+  {
+    "Id": 4,
+    "Name": "Dog Kibble",
+    "Price": 44.83
+  }
+]
